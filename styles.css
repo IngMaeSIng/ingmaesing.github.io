@@ -5,6 +5,7 @@
 }
 h1 {
     margin: auto;
+    display: block;
     font-family: Helvetica, sans-serif;
     font-size: 200px;
 
