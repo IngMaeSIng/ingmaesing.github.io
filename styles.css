@@ -17,9 +17,7 @@ h1 {
 }
 
 div {
-    display: block;
     font-family: Helvetica, sans-serif;
     font-size: 2em;
-    align-items: center;
     color: #fff;
 }
